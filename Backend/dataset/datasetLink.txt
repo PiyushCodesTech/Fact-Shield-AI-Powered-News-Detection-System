@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+
+
+
+
+
+
+
+Research paper
+https://iopscience.iop.org/article/10.1088/1757-899X/1099/1/012040/meta
+https://aclanthology.org/2020.lrec-1.747/
+https://www.researchgate.net/profile/Riasat-Khan/publication/365857538_Detection_of_Fake_News_Using_Machine_Learning_and_Natural_Language_Processing_Algorithms/links/63d91eb7c465a873a271d082/Detection-of-Fake-News-Using-Machine-Learning-and-Natural-Language-Processing-Algorithms.pdf
+
+https://ieeexplore.ieee.org/document/11019208
